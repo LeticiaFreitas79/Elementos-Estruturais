@@ -1,0 +1,197 @@
+html {
+    background-image: url(../img/fundo3.jpg);
+    background-position: center;
+}
+
+h1 {
+    width: 370px;
+    height: 40px;
+    background: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid plum;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    width: 370px;
+    height: 30px;
+    background: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid plum;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ol {
+    width: 370px;
+    height: 200px;
+    background: whitesmoke;
+    border-radius: 15px;
+    border: 2px solid plum;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    cursor: pointer;
+}
+
+ol li {
+    width: 370px;
+    height: 5px;
+    background: thistle;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    display: inline;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+ol li:hover {
+    width: 50px;
+    height: 5px;
+    background: rgb(99, 65, 99);
+    list-style: none;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 10px;
+    display: inline;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+ol li a {
+    text-decoration: none;
+    color: black;
+}
+
+#lista1 {
+    width: 370px;
+    height: 120px;
+    background: whitesmoke;
+    border-radius: 15px;
+    border: 2px solid plum;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+}
+
+.menu {
+    width: 100px;
+    height: 10px;
+    background: thistle;
+    border-radius: 5px;
+    list-style: none;
+    font-size: 10px;
+    padding: 5px;
+    display: inline;
+    flex-direction: row;
+    border: 1px solid plum;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#secao1 {
+  visibility: hidden;
+  width: 100px;
+  height: auto;
+  padding: 0;
+}
+
+.menu:hover {
+    background-color: rgb(99, 65, 99);
+}
+
+.menu:hover #secao1 {
+    visibility: visible;
+}
+
+.secao {
+    width: 80px;
+    height: 2px;
+    background: thistle;
+    list-style: none;
+    text-align: center;
+    padding: 9px;
+    display: flex;
+    flex-direction: column;
+    margin: 5px auto;
+    border-radius: 3px;
+    border: 1px solid plum;
+    justify-content: center;
+    text-align: center;
+}
+
+.secao:hover {
+    background-color: rgb(99, 65, 99);
+}
+
+#nav {
+    width: 385px;
+    height: 160px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid plum;
+}
+
+#botaomenu {
+    width: 100px;
+    height: 20px;
+    background: thistle;
+    border-radius: 5px;
+    border: 2px solid plum;
+    padding: 2px;
+    margin: 5px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#navegacao li {
+    width: 100px;
+    height: 20px;
+    background: thistle;
+    border-radius: 5px;
+    border: 2px solid plum;
+    padding: 2px;
+    margin: 5px;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.link {
+    display: none;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+
+  color: black;
+  font-size: auto;
+  padding: 0;
+}
