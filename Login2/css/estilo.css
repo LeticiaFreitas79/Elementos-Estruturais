@@ -1,0 +1,104 @@
+html {
+    background-color: plum;
+}
+
+div {
+    height: auto;
+    width: 600px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+#log {
+    background: whitesmoke;
+    width: 600px;
+    height: auto;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#user {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#senha {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#nome {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#sobrenome {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#fone {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#email {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#nasc {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#novasenha {
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+}
+
+button {
+    width: auto;
+    height: auto;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.box {
+    cursor: pointer;
+}
+
+
+.dollynho {
+    border-radius: 20%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    display: block;
+}
