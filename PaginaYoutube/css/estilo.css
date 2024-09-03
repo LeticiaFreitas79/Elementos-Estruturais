@@ -1,0 +1,98 @@
+html {
+    background-color: white;
+    margin: 10px auto;
+}
+
+#topo {
+    background-color: whitesmoke;
+    width: auto;
+    height: 70px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#logo {
+    position: relative;
+    left: 20px;
+    bottom: -15px;
+    cursor: pointer;
+}
+
+.pesquisa {
+    background-color: white;
+    width: 500px;
+    height: 40px;
+    border-radius: 30px ;
+    position: relative;
+    bottom: 10px;
+    margin: -15px auto;
+    cursor: text;
+}
+
+.material-symbols-outlined {
+    position: relative;
+    left: 120px;
+    bottom: -10px;
+    margin: 10PX;
+    cursor: pointer;
+}
+
+#fundo1 {
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 620px;
+    padding: 20px;
+}
+
+#principal {
+    position: relative;
+}
+
+#fundo2 {
+    background-color: whitesmoke;
+    width: 495px;
+    height: 620px;
+    padding: 20px;
+    position: relative;
+    left: 1030px;
+    top: -660px;
+}
+
+p {
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.v1 {
+    width: 495px;
+    height: 105px;
+    margin: 10px;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: row;
+    background-color: rgb(228, 226, 226);
+    border-radius: 10px;
+    cursor: pointer;
+ }
+
+#rec {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    margin: 15px;
+    align-items: left;
+    display: block;
+    border-radius: 10px;
+ }
+
+ #titulo {
+    font-size: 15px;
+    counter-increment: none;
+ }
+
+ #fundo3 {
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 620px;
+    padding: 20px;
+ }
