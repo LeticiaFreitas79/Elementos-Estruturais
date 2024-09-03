@@ -1,0 +1,15 @@
+#quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 10px;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+#quadrado:hover {
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/brain.jpg);
+    border-radius: 50%;
+}
