@@ -1,0 +1,12 @@
+projeto2-artgallery
+
+Fontes
+
+Cores
+	#074D72;
+	#557284
+	#99B0C1
+	#479ECC
+	#A2C9E6
+	#578DAD
+	Whitesmoke
