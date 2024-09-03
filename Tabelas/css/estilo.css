@@ -1,0 +1,53 @@
+html {
+    background-color: paleturquoise;
+}
+
+div {
+    width: auto;
+    height: auto;
+    background-color: lightseagreen;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+
+#calendario {
+    width: 400px;
+    height: 400px;
+}
+#calend-top {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: bold;
+    text-align: center;
+}
+
+#calend-days {
+    background-color: whitesmoke;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+}
+
+#calend-mes {
+    background-color: whitesmoke;
+    text-align: center;
+    height: 40px;
+}
+
+#especial {
+    background-color: rgb(176, 230, 176);
+    color: black;
+    border-radius: 5%;
+}
+
+td {
+    padding: 15px;
+}
