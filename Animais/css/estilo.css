@@ -1,0 +1,52 @@
+html, body {
+    background-image: url(../img/floresta1.jpg);
+    background-size: cover;
+}
+
+div {
+    padding: 5px;
+}
+
+#fundo {
+    width: 159px;
+    height: 815px;
+    background-color: lightpink;
+    position: relative;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.miniatura {
+    background-color: whitesmoke;
+    background-size: contain;
+    border-radius: 15px;
+    border-color: black;
+    border: 2px solid lightcoral;
+    width: 135px;
+    height: 135px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#principal {
+    width: 800px;
+    height: 815px;
+    background-color: lightpink;
+    border-radius: 15px;
+    margin: 10px;
+    position: relative;
+    left: 180px;
+    top: -835px;
+}
+
+#exibir {
+    width: 780px;
+    height: 775px;
+    background-color: lightpink;
+    border-radius: 15px;
+    margin: 10px;
+    position: relative;
+    left: -1px;
+    bottom: -10px;
+   
+}
